@@ -11,8 +11,9 @@ minizinc
 https://github.com/fontanf/coloringsolver
 
 
-mip => unequal
 
+
+python packages
 
 z3-solver
 mip
@@ -20,6 +21,13 @@ python-sat
 
 
 
+https://docs.google.com/spreadsheets/d/1pq7jf-HmxQetaTUdXXNbLb5EO8KPo00qQ-ShVrr_7o0/edit?usp=sharing
+
+
+
+TODO:
+
+mip => unequal
 gurobi
 kotlin
 
