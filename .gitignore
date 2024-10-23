@@ -1,0 +1,9 @@
+META-INF
+venv
+__pycache__
+*.dzn
+*.smt2
+*.jar
+*.class
+tmp.*
+test.*
